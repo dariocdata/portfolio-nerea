@@ -16,7 +16,7 @@ body {
 .headbar {
     display: flex;
     height: 70px;
-    background: rgb(255, 255, 255);
+    background: rgba(181, 219, 182, 0.562);
     flex:1;
     justify-content: space-between;
     max-height: 70px;
