@@ -16,7 +16,7 @@ body {
 .headbar {
     display: flex;
     height: 70px;
-    background: rgba(181, 219, 182, 0.562);
+    background: rgb(195, 221, 195);
     flex:1;
     justify-content: space-between;
     max-height: 70px;
@@ -59,7 +59,7 @@ a {
 
 .presentation{
     display: flex;
-    background-color: rgba(181, 219, 182, 0.562);
+    background-color: rgb(195, 221, 195);
     height: 450px;
     max-height: 450px;
     justify-content: space-between;
@@ -110,6 +110,14 @@ button {
 img.foto {
     
     box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.15);
+    border-radius: 20%;
+}
+
+img#retrato {
+    box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.15);
+    border-radius: 0px;
+
+    
 }
 
 .mosaicos {
