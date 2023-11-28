@@ -130,7 +130,7 @@ img#retrato {
     display: flex;
     flex-direction: column;
     background-color: rgb(255, 255, 255);
-   
+    
 }
     
 
@@ -140,6 +140,7 @@ img#retrato {
     text-align: center;
     padding: 15px;
     margin: 20px;
+    
     
 }
 
@@ -169,4 +170,19 @@ img#retrato {
     width: 170px;
     margin-top: 10px;
     font-weight: 200;
+}
+
+
+.quote {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-style: italic;
+    font-size: 30px;
+    background-color: rgb(253, 253, 242);
+    padding: 100px;
+    font-weight:lighter;
+    text-align: center;
+    margin-top: 50px;
+    
 }
